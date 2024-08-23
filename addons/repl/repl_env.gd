@@ -472,6 +472,14 @@ const forbidden_classes = {
 	"TileMapLayerEditorTerrainsPlugin": null,
 	"TileMapLayerEditorTilesPlugin": null,
 	"UVEditDialog": null,
+
+    # Godot 4.3 Mono
+    "EditorAssetLibraryItem": null,
+    "EditorExportPreset": null,
+    "EditorFileSystemImportFormatSupportQueryBlend": null,
+    "RenderBufferCustomDataRD": null,
+    "RenderBufferDataForwardClustered": null,
+    "RenderBuffersGI": null
 }
 
 # handles eval calls
